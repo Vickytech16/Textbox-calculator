@@ -1,0 +1,46 @@
+/* 23/04/2023 */
+
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body{
+ background-color: yellow;
+ position: relative;
+}
+
+#main{
+ background-color: black;
+ width: 40%;
+ height: 70vh;
+ margin: auto;
+ margin-top: 15vh;
+ padding: 50px;
+}
+
+h1{
+ color: white;
+ text-align: center;
+}
+
+input{
+ display: block;
+ margin: auto;
+ margin-top: 50px;
+ margin-bottom: 20px;
+}
+
+button{
+ display: block;
+ background: yellow;
+ color: black;
+ margin: auto;
+}
+
+#result{
+ color: white;
+ text-align: center;
+ margin-top: 20px;
+}
